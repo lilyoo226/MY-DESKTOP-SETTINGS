@@ -66,6 +66,10 @@
 
           // css
           "entity.name.tag.css"
+          
+           // json
+          "support.type.property-name.json"
+
 
           // "entity.other.attribute-name.class.css",
           // "entity.other.attribute-name.class.mixin.css",
